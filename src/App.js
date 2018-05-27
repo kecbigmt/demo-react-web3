@@ -46,7 +46,7 @@ class App extends React.Component {
     const { classes } = this.props
     return (
       <div className="App">
-        <AppBar position="static" color="default">
+        <AppBar position="static" color="primary">
           <Toolbar>
             <Typography variant="title" color="inherit">
               My Ethereum Explorer
